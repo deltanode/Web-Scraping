@@ -9,7 +9,7 @@
 
 ## Scripts :
 
-| Website | URL | Script | Folder |
+| Website | URL | Script | Directory |
 | --- | --- | --- | --- |
 | COVID19 INDIA | https://www.covid19india.org/| covid19.py | View |
 
