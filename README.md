@@ -7,11 +7,11 @@
 - Web Scraping may be against the <ins>terms of use</ins> of some websites and users may be subject to legal ramifications depending on where and how they attempt to scrape information.
 - So, Always inspect the Robots.txt as many websites specifies what is considered as good behaviour on that site, such as areas that are allowed to be crawled, restricted pages, and frequency limits for crawling.
 
-## Scripts :
+## Scripts : (In Progress)
 
-| Website | URL | Script | Directory |
+| Website | URL | Directory | Action |
 | --- | --- | --- | --- |
-| COVID19 INDIA | https://www.covid19india.org/| covid19.py | View |
+| Worldometer | https://www.worldometers.info/coronavirus/| worldometers | [View](worldometers) |
 
 ## Dependencies
 
