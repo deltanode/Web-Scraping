@@ -9,14 +9,16 @@
 
 ## Scripts : (In Progress)
 
-| Website | URL | Directory | Action |
+| Website | URL | Libraries | Action |
 | --- | --- | --- | --- |
-| Worldometer | https://www.worldometers.info/coronavirus/| worldometers | [View](worldometers) |
+| Worldometer | https://www.worldometers.info/coronavirus/| <ul><li>- [x] BeautifulSoup</li></ul> | [View](worldometers) |
+| Amazon | https://www.amazon.in/b?node=976389031| <ul><li>- [x] Scrapy</li></ul> | [View](amazon) |
 
 ## Dependencies
 
 - Requests (https://requests.readthedocs.io/)
 - Beautifulsoup (https://beautiful-soup-4.readthedocs.io/)
+- Scrapy (https://docs.scrapy.org/)
 
 ## Installation
 Set up a virtual environment and install the dependencies:
